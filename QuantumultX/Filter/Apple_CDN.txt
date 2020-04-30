@@ -1,6 +1,6 @@
 # Apple_CDN.list
 # Apple Music
-host, aod.itunes.apple.com, Apple Updata
+host, aod.itunes.apple.com, Apple Update
 host, api.smoot.apple.cn, Apple Update
 host, music.apple.com, Apple Update
 host, mvod.itunes.apple.com, Apple Update
